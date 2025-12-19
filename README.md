@@ -1,18 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <style>
-        #textToCopy {
-            padding: 10px;
-            border: 1px solid #ccc;
-            background-color: #f9f9f9;
-        }
-        button {
-            margin-top: 5px;
-            padding: 5px 10px;
-            cursor: pointer;
-        }
-    </style>
 </head>
 <body>
 	<h1 style="font-size:120%;">ELVUI / Plater Nameplates / Windtools Profiles</h1>
