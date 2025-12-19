@@ -9,10 +9,6 @@
   overflow-x: hidden; 
   background: #f9f9f9;
 }
-p {
-  border: 3px solid black;
-  padding: 5px;
-}
 </style>
 </head>
 <body>
