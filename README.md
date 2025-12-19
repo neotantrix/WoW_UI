@@ -3,21 +3,11 @@
 <head>
 <style>
 blockquote {
-  /* Set a specific height for the blockquote container */
   height: 250px; 
   width: 500px
-  
-  /* Add vertical scrollbar when content exceeds the height */
   overflow-y: auto; 
-  
-  /* Hide horizontal scrollbar if not needed */
   overflow-x: hidden; 
-
-  /* Optional: Add some default blockquote styling */
   background: #f9f9f9;
-  border-left: 5px solid #ccc;
-  margin: 1.5em 10px;
-  padding: 0.5em 10px;
 }
 p {
   border: 3px solid black;
