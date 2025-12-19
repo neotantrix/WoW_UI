@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-  blockquote {
-  height: 250px; 
-  width: 500px
-  overflow-y: auto; 
-  overflow-x: hidden; 
-  background: #f9f9f9;
-}
-</style>
+  <style>
+    blockquote {
+    height: 250px; 
+    width: 500px
+    overflow-y: auto; 
+    overflow-x: hidden; 
+    background: #f9f9f9;
+    }
+  </style>
 </head>
 <body>
 
